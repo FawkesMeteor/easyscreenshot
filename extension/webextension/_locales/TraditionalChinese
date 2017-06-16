@@ -1,0 +1,205 @@
+{
+
+"browserActionTitle": {
+
+"message": "網頁截圖"
+
+},
+
+"extensionDescription": {
+
+"message": "方便的截圖工具，支援任意選定區域截圖、全網頁截圖等多種截圖方式，並提供必要的圖片編輯功能。"
+
+},
+
+"extensionName": {
+
+"message": "網頁截圖"
+
+},
+
+"feedbackUrl": {
+
+"message": "http://mozilla.com.cn/addon/325-easyscreenshot/"
+
+},
+
+"minPanelWidth": {
+
+"message": "12em"
+
+},
+
+"generic_crop_instruction": {
+
+"message": "拖動開始，按兩下或回車完成"
+
+},
+
+"editor_title": {
+
+"message": "火狐截圖編輯"
+
+},
+
+"editor_color_tooltip": {
+
+"message": "選擇填充顏色"
+
+},
+
+"editor_crop_tooltip": {
+
+"message": "裁剪"
+
+},
+
+"editor_rectangle_tooltip": {
+
+"message": "添加矩形"
+
+},
+
+"editor_circle_tooltip": {
+
+"message": "添加橢圓"
+
+},
+
+"editor_text_tooltip": {
+
+"message": "添加文字"
+
+},
+
+"editor_blur_tooltip": {
+
+"message": "模糊"
+
+},
+
+"editor_line_tooltip": {
+
+"message": "添加直線"
+
+},
+
+"editor_pencil_tooltip": {
+
+"message": "鉛筆"
+
+},
+
+"editor_undo_tooltip": {
+
+"message": "撤銷"
+
+},
+
+"editor_local_tooltip": {
+
+"message": "保存到本地"
+
+},
+
+"editor_copy_tooltip": {
+
+"message": "複製到剪貼板"
+
+},
+
+"editor_cancel_tooltip": {
+
+"message": "關閉"
+
+},
+
+"editor_lineWidth_tooltip": {
+
+"message": "線條粗細"
+
+},
+
+"editor_fontSize_tooltip": {
+
+"message": "文字大小"
+
+},
+
+"editor_crop_instruction": {
+
+"message": "拖動開始，按兩下完成"
+
+},
+
+"save_file_name": {
+
+"message": "火狐截圖_$TIMESTAMP$.png",
+
+"placeholders": {
+
+"timestamp" : {
+
+"content" : "$1"
+
+}
+
+}
+
+},
+
+"save_success": {
+
+"message": "截圖已保存"
+
+},
+
+"save_failure": {
+
+"message": "保存截圖失敗"
+
+},
+
+"copy_success": {
+
+"message": "截圖已複製到剪貼板"
+
+},
+
+"copy_failure": {
+
+"message": "複製截圖到剪貼板失敗"
+
+},
+
+"popup_select": {
+
+"message": "截取網頁選定區域"
+
+},
+
+"popup_entire": {
+
+"message": "截取整個網頁"
+
+},
+
+"popup_visible": {
+
+"message": "截取網頁可視區域"
+
+},
+
+"popup_settings": {
+
+"message": "設置"
+
+},
+
+"popup_feedback": {
+
+"message": "意見回饋"
+
+}
+
+}
